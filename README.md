@@ -2,3 +2,6 @@
 ![Screenshots](https://github.com/mansi-priya/codeAlpha_StudentGradeTrackers/blob/main/screenshots/Screenshot%20(233).png)
 ![Screenshots](https://github.com/mansi-priya/codeAlpha_StudentGradeTrackers/blob/main/screenshots/Screenshot%20(234).png)
 ![Screenshots](https://github.com/mansi-priya/codeAlpha_StudentGradeTrackers/blob/main/screenshots/Screenshot%20(235).png)
+![Screenshots]()
+![Screenshots]()
+![Screenshots]()
